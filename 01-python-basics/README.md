@@ -16,3 +16,18 @@ Covered:
 
 Exercise:
 - Tennis Player Information System
+
+
+## Day 2
+
+Covered:
+
+- Functions (def)
+- return
+- Default parameters
+- *args and **kwargs
+- if, elif, else
+- for and while loops 
+
+Exercise:
+- Personal Finance Expense Tracker
