@@ -31,3 +31,17 @@ Covered:
 
 Exercise:
 - Personal Finance Expense Tracker
+
+
+## Day 3
+
+Covered:
+
+- Importing modules
+- Python Standard library
+- Aliases (`as`)
+- Random number generation
+- Reinforced learning from previous days
+
+Exercise:
+- RPG Character Creator and Battle Simulator
