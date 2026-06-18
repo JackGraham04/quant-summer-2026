@@ -45,3 +45,20 @@ Covered:
 
 Exercise:
 - RPG Character Creator and Battle Simulator
+
+
+## Day 4
+
+Covered:
+
+- Reinforced functions
+- Lists and dictionaries
+- While loops
+- Importing from modules
+- Random number generation
+- Building larger programs
+- Game logic and state tracking
+
+Exercises:
+- Blackjack Game
+- Quiz Game
