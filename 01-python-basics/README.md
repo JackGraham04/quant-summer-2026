@@ -62,3 +62,19 @@ Covered:
 Exercises:
 - Blackjack Game
 - Quiz Game
+
+
+## Day 5
+
+Covered:
+
+- Reading CSV files
+- Writing CSV files
+- `csv.reader()` and `csv.DictReader()`
+- `csv.DictWriter()`
+- File handling with `open()`
+- Reinforced functions, loops and dictionaries
+
+Exercises:
+- Student Grade CSV Analyser
+- Stock Portfolio Tracker
