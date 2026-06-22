@@ -78,3 +78,20 @@ Covered:
 Exercises:
 - Student Grade CSV Analyser
 - Stock Portfolio Tracker
+
+
+## Day 6
+
+Covered:
+
+- NumPy arrays
+- Array indexing and slicing
+- Vectorised operations
+- Statistical functions (`mean`, `sum`, `std`, `min`, `max`)
+- Random number generation (`np.random`)
+- Cumulative operations (`np.cumsum`)
+
+Exercises:
+
+- Coin Flip Monte Carlo Simulation
+- Portfolio Risk & Return Simulator
